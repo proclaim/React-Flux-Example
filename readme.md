@@ -7,4 +7,6 @@ This example offers 2 functions: ONLINE & OFFLINE. You can set user online and o
 
 ### Installation
 - clone this git repo
+- run npm install
+- run bower install
 - run gulp development
