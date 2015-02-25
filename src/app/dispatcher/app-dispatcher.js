@@ -1,7 +1,7 @@
 'use strict';
 
 var Dispatcher  = require('./dispatcher'),
-    assign      = require('object-assign');
+    assign      = require('object-assign'),
     AppDispatcher;
 
 AppDispatcher = assign({}, Dispatcher.prototype, {

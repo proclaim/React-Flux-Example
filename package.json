@@ -20,7 +20,9 @@
     "reactify": "~0.15.2",
     "react": "^0.12.0",
     "reflux": "~0.1.13",
-    "react-router": "~0.11.6"
+    "react-router": "~0.11.6",
+    "object-assign": "~2.0.0",
+    "es6-promise": "~2.0.1"
   },
   "engines": {
     "node": ">=0.10.0"
